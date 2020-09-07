@@ -1,2 +1,69 @@
-# Clase5
-Layout 
+# Infografía Digital v1
+
+### Clase 05 → Lunes 7 de septiembre, 2020
+
+Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de infografía digital. Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) para comprender cómo las actuales tecnologías nos permiten contar historias. Y la clase recién pasada tuvimos la primera aproximación a [herramientas de dibujo en función de la planificación](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#clase-04--lunes-31-de-agosto-2020), desarrollando bocetos para explicar: 
+
+- [qué ocurre cuando mezclas Coca-Cola con sal](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-1)
+- [cómo hacer un Irimi Nage (Aikido)](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-2)
+
+**En la clase de hoy, la quinta del semestre, el asunto es "Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial"**.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+#### Ejercicio
+
+**Nuevamente necesitaremos lápiz y papel, además de un aparato para digitalizar los bocetos que realicen a mano**; insistiremos con las instrucciones respecto del uso de Photoshop, porque no todos los trabajos de la clase recién pasada cumplieron con los ajustes de peso y resolución indicados.
+
+**También vamos a utilizar https://wireframe.cc/ para guiar y/o complementar el trabajo a mano**.
+
+Con base al desafío que se entregue, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
+
+- primero un *layout* para móvil;
+- después un *layout* para pantalla grande.
+
+El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-05/) de repositorio. 
+
+#### Resultados
+
+| Nro.  | Nombre | URL |
+|:-----:|:-------|:--------|
+| 1 | Rosario Acha | … |
+| 2 | Antonia Adell | … |
+| 3 | Ignacio Agurto | … | 
+| 4 | Francisco Álvarez | … |
+| 5 | Carolina Aranibar | … | 
+| 6 | Silvio Arribas | … |
+| 7 | Isabella Cabrera | … |
+| 8 | Dessiree Cifuentes | … |
+| 9 | Debi Codriansky | … | 
+| 10 | Erika Contreras | … |
+| 11 | María José Coudeu | … |
+| 12 | Valy Cummings | … |
+| 13 | Catalina Escudero | … | 
+| 14 | Olga F. Vio | … |
+| 15 | Fernando Gajardo | … |
+| 16 | Javiera González | … |
+| 17 | María Fernanda Herández | … |
+| 18 | Antonia Lasen | … |
+| 19 | Sofía Lira | … |
+| 20 | Javiera Maechtig | … |
+| 21 | Karla Mancini | … |
+| 22 | Karina Melani | … |
+| 23 | Muriel Muñoz | … |
+| 24 | Rosario Olivares | … |
+| 25 | Joaquín Olmedo | … |
+| 26 | Francisco Pezoa | … | 
+| 27 | Daniela Quinteros | … |
+| 28 | Isidora Ravera | … | 
+| 29 | Esperanza Ríos | … | 
+| 30 | Pilar Saavedra | … |
+| 31 | David Sánchez | … |
+| 32 | Josefina Stückrath | … |
+| 33 | Paula Trujillo | … |
+| 34 | Rosario Valdés | … |
+| 35 | Catalina Vidal | … |
+
+- - - - - - - -
+
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-06)
